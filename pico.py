@@ -112,3 +112,40 @@
 #             break
 # else:
 #     print("ok, adios.")  
+
+
+# import random
+
+# from random import randint
+
+# num1=int(input("Ingrese 1 digito\n"))
+
+# num2=int(input("Ingrese otro digito\n"))
+
+
+
+
+# while num1>num2:
+#     print("Ingrese un numero mayor que el primero.\n")
+#     num1=int(input("Ingrese 1 digito\n"))
+
+#     num2=int(input("Ingrese otro digito\n"))
+#     if num1>num2:
+#         print(f"El numero {num1} es mayor que el numero {num2}\n") 
+#     elif num2>num1:
+#         numa=random.randint(num1, num2)
+#         # numa=randint(num1, num2)
+#         print(f"El numero {num2} es mayor que el numero {num1}\n")
+#         print(f"Numero aleatorio entre esos numeros: {numa}\n")
+#         print(f"Imprimiendo {numa} ▄")
+#         for i in range (numa):
+#             print("\t▄")
+
+# if num2>num1:
+#     numa=random.randint(num1, num2)
+#     # numa=randint(num1, num2)
+#     print(f"El numero {num2} es mayor que el numero {num1}\n")
+#     print(f"Numero aleatorio entre esos numeros: {numa}\n")
+#     print(f"Imprimiendo {numa} ▄")
+#     for i in range (numa):
+#         print("\t▄")
